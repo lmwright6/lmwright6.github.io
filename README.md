@@ -1,2 +1,2 @@
 # kilowattHR
-Decrease your carbon emissions and a few easy actions!
+Decrease your carbon emissions in a few easy actions!
